@@ -1,0 +1,9 @@
+{
+  "ProductPageFlow": {
+    "SizeSelector": "span.sizetext",
+    "PincodeInput": "input[placeholder='Enter Pincode']",
+    "CheckPincodeButton": "button.btn-pincode",
+    "AddToCartButton": "button.btn-danger",
+    "WishlistButton": "button.wishlistBtnMobile"
+  }
+}

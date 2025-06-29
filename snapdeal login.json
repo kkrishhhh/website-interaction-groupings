@@ -1,0 +1,7 @@
+{
+  "LoginFlow": {
+    "EmailOrMobileInput": "input#userName",
+    "SubmitButton": "button#checkUser",
+    "GoogleLogin": "div#googleUserLogin"
+  }
+}

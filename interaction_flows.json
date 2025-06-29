@@ -1,0 +1,9 @@
+{
+  "LoginFlow": {
+    "EmailInput": "input#username",
+    "PasswordInput": "input#password",
+    "SubmitButton": "input[type='submit']"
+  }
+}
+
+

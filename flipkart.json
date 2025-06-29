@@ -1,0 +1,9 @@
+{
+  "LoginFlow": {
+    "EmailOrMobileInput": "input[type='text']",
+    "SubmitButton": "button"
+  },
+  "SignUpFlow": {
+    "SignUpLink": "a[href='/account/login?signup=true']"
+  }
+}

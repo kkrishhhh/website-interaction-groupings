@@ -1,0 +1,8 @@
+{
+  "LoginFlow": {
+    "LoginLink": "a[href='https://www.snapdeal.com/login']"
+  },
+  "SignUpFlow": {
+    "SignUpText": "span.newUserRegister"
+  }
+}
